@@ -1,0 +1,1 @@
+Hi to everyone who reads it! It's info about my first calculator on JS language.
